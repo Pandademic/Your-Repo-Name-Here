@@ -1,2 +1,12 @@
 # Your-Repo-Name-Here
-A template repo
+Your repo description here
+
+# Your repos purpose
+_____
+Your repos purpose
+
+*everything else*
+
+# Contriubuters
+__________
+*list theme*
