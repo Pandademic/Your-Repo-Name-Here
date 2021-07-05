@@ -1,0 +1,22 @@
+# Validator: https://dependabot.com/docs/config-file-beta/validator/
+version: 2
+updates:
+  - package-ecosystem: "Package Ecosystem Here EX NPM or PIP"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "Beep Bop(Deps):"
+      include: "scope"
+    # set this to 0 to disable updates
+    open-pull-requests-limit: 10
+
+  # github actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+    open-pull-requests-limit: 10
+    
