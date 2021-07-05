@@ -9,4 +9,4 @@ Your repos purpose
 
 # Contriubuters
 __________
-*list theme*
+*list them*
