@@ -1,6 +1,6 @@
 STEPS
 ________________
-1. Their should be a option to use the is template.Select it.
+1. Their should be A use this Template Button click it ,It will create a new repo
 2. Delete .github/worflows any workflows you dont want
 3. Edit the .github/dependabot ecosytem part for the ecosytem You want Ex NPM or PIP
 4. change the README
