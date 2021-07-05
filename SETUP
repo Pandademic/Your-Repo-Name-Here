@@ -1,5 +1,9 @@
 STEPS
 ________________
-
-2. Delete .github/worflows any workflows you dont wany
-3. Edit the .github/dependabot ecosytem part for the ecosytem You want
+1. Their should be a option to use the is template.Select it.
+2. Delete .github/worflows any workflows you dont want
+3. Edit the .github/dependabot ecosytem part for the ecosytem You want Ex NPM or PIP
+4. change the README
+5.Change the Issue templates
+6.Delete This file
+7.Your set up!
