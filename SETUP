@@ -1,0 +1,5 @@
+STEPS
+________________
+
+2. Delete .github/worflows any workflows you dont wany
+3. Edit the .github/dependabot ecosytem part for the ecosytem You want
